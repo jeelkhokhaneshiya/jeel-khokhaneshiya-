@@ -1,0 +1,8 @@
+{
+  "name": "Jeel AI",
+  "description": "An all-in-one AI assistant for text, code, and image generation using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
